@@ -13,5 +13,4 @@ public class Prob2 {
 			System.out.println(" ");
 		}
 	}
-
 }
